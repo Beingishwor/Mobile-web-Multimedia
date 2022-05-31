@@ -1,8 +1,8 @@
 1. 404 page
-!(404)[]
+!(404)[Output/404.png]
 2. CTA
-!(cta)[]
+!(cta)[Output/cta.png]
 3. Brand
-!(brand)[]
+!(brand)[Output/brand.png]
 4. Nav
-!(NAV)[]
+!(NAV)[Output/nav.png]
